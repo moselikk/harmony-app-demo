@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "width_label",
+      "value": "label width"
+    },
+    {
+      "name": "width_label_tip",
+      "value": "请输入图片宽度"
+    }
+  ]
+}
